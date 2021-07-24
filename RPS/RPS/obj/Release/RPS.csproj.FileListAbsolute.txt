@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\RPS\RPS\bin\Release\RPS.exe.config
+C:\Users\admin\source\repos\RPS\RPS\bin\Release\RPS.exe
+C:\Users\admin\source\repos\RPS\RPS\bin\Release\RPS.pdb
+C:\Users\admin\source\repos\RPS\RPS\obj\Release\RPS.Form1.resources
+C:\Users\admin\source\repos\RPS\RPS\obj\Release\RPS.Properties.Resources.resources
+C:\Users\admin\source\repos\RPS\RPS\obj\Release\RPS.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\RPS\RPS\obj\Release\RPS.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RPS\RPS\obj\Release\RPS.exe
+C:\Users\admin\source\repos\RPS\RPS\obj\Release\RPS.pdb
